@@ -1,0 +1,13 @@
+# Site settings
+title: Agile Denver
+email: chuck@agiledenver.org
+description: > # this means to ignore newlines until "baseurl:"
+  Agile Denver is a 501(c)(6) nonprofit that serves the Agile Software
+  Development community in Denver and along Colorado's Front Range.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://agiledenver.org" # the base hostname & protocol for your site
+twitter_username: agiledenver
+github_username:  agiledenver
+
+# Build settings
+markdown: kramdown
