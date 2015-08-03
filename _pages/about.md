@@ -25,7 +25,7 @@ of special interest groups (SIG). Looking for information on lean and Kanban?
 Coaching? Scrum Master excellence? There is a SIG for you!
 
 Most SIGs advertise their meetings on Meetup, but some also use our
-[LinkedIn](https://www.linkedin.com/groups/Agile-Denver-158624/about) group. The
+[LinkedIn](https://www.linkedin.com/groups/Agile-Denver-158624) group. The
 LinkedIn group is a good place to connect with the community between meetings.
 
 Agile Denver is an entirely volunteer-run organization.

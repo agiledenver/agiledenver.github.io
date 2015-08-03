@@ -5,7 +5,7 @@
 url: http://agiledenver.github.io
 baseurl: ""
 title: Agile Denver
-description: Agile Denver is a 501(c)(6) nonprofit that serves the Agile Software Development community in Denver and along Colorado's Front Range.
+description: a 501(c)(6) nonprofit developing agile practitioners in Denver and along Colorado's Front Range
 avatar: /assets/img/agile-denver.jpeg
 
 #
@@ -13,7 +13,7 @@ avatar: /assets/img/agile-denver.jpeg
 #
 icons:
   rss: true
-  email:
+  email: chuck@agiledenver.org
   github: agiledenver
   bitbucket:
   twitter: agiledenver
@@ -22,9 +22,9 @@ icons:
   tumblr:
   behance:
   dribbble:
-  flickr:
+  flickr: agiledenver
   instagram:
-  linkedin:  # full URL
+  linkedin: https://www.linkedin.com/groups/Agile-Denver-158624 # full URL
   pinterest:
   reddit:
   soundcloud:
@@ -70,7 +70,7 @@ paginate_path: page/:num
 #
 share_buttons: false
 ogp:
-  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  image_url: http://agiledenver.github.io/assets/img/agile-denver.jpeg
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
