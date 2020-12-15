@@ -1,7 +1,16 @@
+.background {
+  background:
+    linear-gradient(
+      rgba($brand-color, 0.65),
+      rgba($brand-color, 0.65)
+    ),
+    url("/assets/img/background.png");
+}
+
 .site-header {
     font-size: 2em;
     padding: 0.7em 0;
-    background-color: $brand-color;
+    // background-color: $brand-color;
     border-top: 3px solid rgba(#000, .5);
     @media screen and (max-width: $mobile-width) {
         text-align: center;
